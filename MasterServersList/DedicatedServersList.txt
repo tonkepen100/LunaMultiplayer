@@ -35,3 +35,6 @@ kspace-team.ga:8800
 Kiwi_Waydelyb:8800
 #khtrx_ksp
 ksp.khtrx.tk:8800
+#Piro Servidores
+piro.myftp.biz:8800
+piro.sytes.net:8800
